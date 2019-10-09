@@ -15,3 +15,5 @@ installed following the directions
 
 If you find a problem please file an
 [issue](https://github.com/kubernetes-client/python/issues).
+
+[参考](https://github.com/kubernetes-client/python/tree/master/examples)
